@@ -30,6 +30,7 @@
                ai.province_id,
                ai.province_name,
                ai.address_detail,
+               ai.introduction,
                ai.latitude,
                ai.longitude,
                ai.phone ai_phone,
